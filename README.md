@@ -17,3 +17,7 @@ No deployment needed
 ## How to conttribute
 
 Nothing to contribute
+
+### Copyright
+
+2014 Git.Training
